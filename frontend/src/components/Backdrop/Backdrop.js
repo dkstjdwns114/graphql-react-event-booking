@@ -1,4 +1,3 @@
-import { defaultTypeResolver } from "graphql";
 import React from "react";
 
 import "./Backdrop.css";
